@@ -1,1 +1,2 @@
-server\server_log.txt
+/server/server_log.txt
+/client/client_log.txt
